@@ -1,0 +1,26 @@
+{
+    "platforms": [
+        {"image": "plat1x2", "x": 0, "y": 300},
+        {"image": "plat1x9", "x": 300, "y": 670},
+        {"image": "plat1x2", "x": 600, "y": 580}
+    ],
+    "coins": [],
+    "hero": {"x": 21, "y": 270},
+    "spiders": [],
+    "gates": {"x": 100, "y": 700},
+    "trigger": {"x": 40, "y": 270},
+    "enterToCage": {"x": 2970, "y": 700},
+    "bonearc": {"x": 450, "y": 755},
+    "frozenarc": {"x": 2550, "y": 630},
+    "spike": [
+        {"x": 320, "y": 655},
+        {"x": 359, "y": 655}
+    ],
+    "block": [
+        {"x": 850, "y": 640, "speed": 3000},
+        {"x": 450, "y": 320, "speed": 1000}
+    ],
+    "key": {"x": 460, "y": 470},
+    "frozenKey": {"x": 450, "y": 745},
+    "deathField": {"x": 0, "y": 920}
+}
